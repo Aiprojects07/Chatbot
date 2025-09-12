@@ -18,13 +18,13 @@ PINECONE_INDEX   = os.getenv("PINECONE_INDEX", "kult-beauty-jam")
 EMBED_MODEL      = os.getenv("OPENAI_EMBED_MODEL", "text-embedding-3-large")
 
 PRIMARY_MODEL    = os.getenv("PRIMARY_MODEL", "anthropic")  # "anthropic" or "openai"
-ANTHROPIC_MODEL  = os.getenv("ANTHROPIC_MODEL", "claude-opus-4-1-20250805")
+ANTHROPIC_MODEL  = os.getenv("ANTHROPIC_MODEL", "claude-3-5-haiku-20241022")
 OPENAI_CHAT_MODEL= os.getenv("OPENAI_CHAT_MODEL", "gpt-4o-mini")
 
 PRODUCT_NAME     = "Glossier Generation G – Jam"
 
 # External system prompt file (optional override)
-PROMPT_FILE_PATH = (Path(__file__).resolve().parent.parent / "data" / "Chatbot system message prompt.txt")
+PROMPT_FILE_PATH = (Path(__file__).resolve().parent.parent.parent / "data" / "Chatbot system message prompt.txt")
 
 # ===== Clients =====
 pc  = Pinecone(api_key=PINECONE_API_KEY)
@@ -48,7 +48,7 @@ VERDICT_HINTS = ["pros", "cons", "best for", "skip if", "who should buy", "who s
 
 # Default minimal system prompt (used only if file read fails)
 _DEFAULT_SYSTEM_PROMPT = f"""You are a beauty expert chatbot for one product: {PRODUCT_NAME}.
-Keep answers concise and grounded in provided context. Cite sources inline as [Snapshot], [FAQ], [Glossary], or [Verdict]."""
+Keep answers concise and grounded in provided context. Provide helpful, accurate information in plain text format without markdown formatting or citations."""
 
 # Load system prompt from external file if available
 try:
@@ -120,7 +120,8 @@ def boost(hits: List[Dict[str, Any]], q: str) -> List[Dict[str, Any]]:
 def build_context(hits: List[Dict[str, Any]], limit: int = 5) -> str:
     out = []
     for h in hits[:limit]:
-        out.append(f'{h["label"]} {h["text"]}')
+        # Remove the label prefix - just use the text content
+        out.append(h["text"])
     return "\n\n".join(out)
 
 def answer_with_openai(question: str, context: str) -> str:
