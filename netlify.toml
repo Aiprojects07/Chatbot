@@ -1,0 +1,15 @@
+[build]
+  # No static build in this backend-only setup; you can add a frontend later
+  command = ""
+  publish = "."
+
+[functions]
+  directory = "netlify/functions"
+  # ensure Python runtime
+  node_bundler = "esbuild"
+
+# Optional: set function-level timeouts/memory if needed
+#[[functions]]
+#  name = "chat"
+#  timeout = 26
+#  memory = 1024

@@ -1,0 +1,1390 @@
+# Ultimate Lipstick Attribute System - Indian Market Focus
+
+
+
+### Classification
+- Product Type (bullet, liquid, stain, oil, gloss, balm, crayon, powder, gel, mousse, lacquer, ink, hybrid)
+- Product Sub-Type (long-wear, transfer-proof, moisturizing, plumping, etc.)
+- Category (luxury, prestige, bridge, mass, drugstore, indie, professional, clinical)
+- Launch Type (permanent, limited edition, seasonal, special edition, collaboration, exclusive)
+- Product Generation (original, reformulated v1, v2, etc.)
+
+## 2. COLOR ATTRIBUTES
+
+### Scientific Color Data
+- HEX Code
+- RGB Values
+- CMYK Values
+- LAB Color Space Values
+- HSL Values
+- HSV Values
+- Pantone Matching System Code
+- Munsell Color Code
+- Delta E Value (color difference from reference)
+- Spectrophotometer Reading
+- Wavelength Data
+- Color Temperature (Kelvin)
+
+### Descriptive Color Classification
+- Primary Color Family (red, pink, nude, brown, orange, coral, berry, purple, plum, burgundy, wine, mauve, peach, rose)
+- Secondary Color Family
+- Tertiary Tones
+- Undertone (warm, cool, neutral, olive, golden, peachy, blue-based, yellow-based)
+- Overtone
+- Depth Level (1-20 scale)
+- Brightness/Value (1-10)
+- Saturation/Chroma (1-10)
+- Opacity (0-100%)
+- Coverage (sheer, light, medium, buildable, full)
+
+### Special Effects
+- Finish Type (matte, demi-matte, satin, cream, glossy, vinyl, lacquer, metallic, chrome, shimmer, glitter, holographic, duochrome, multichrome, iridescent)
+- Particle Size (for shimmer/glitter in microns)
+- Shift Colors (for duochrome/multichrome)
+- Frost Level
+- Pearl Content
+- Micro-Glitter Count
+- Sparkle Density
+- Light Reflection Index
+
+## 3. INDIAN SKIN TONE MAPPING
+
+### MAC Shade System on Indian Skin
+- NC15 Appearance (Fair Indian - Kashmir, Himachal)
+- NC20 Appearance (Light Indian - Punjab, North)
+- NC25 Appearance (Light-Medium Indian - Delhi, UP)
+- NC30 Appearance (Medium Indian - Gujarat, Rajasthan)
+- NC35 Appearance (Medium-Tan Indian - Maharashtra, MP)
+- NC37 Appearance (Tan Indian - Karnataka, Andhra)
+- NC40 Appearance (Tan-Deep Indian - Tamil Nadu, Kerala)
+- NC42 Appearance (Deep Indian - Coastal regions)
+- NC44 Appearance (Deep Indian - South India)
+- NC45 Appearance (Very Deep Indian)
+- NC47 Appearance (Very Deep Indian)
+- NC50+ Appearance (Deepest Indian)
+- NW Equivalents for Cool-Toned Indians
+
+### Indian-Specific Skin Tone Classifications
+- Wheatish Complexion Appearance
+- Dusky Complexion Appearance
+- Fair & Lovely Appearance (problematic but commonly referenced)
+- Sandalwood Tone Appearance
+- Golden Brown Appearance
+- Honey Tone Appearance
+- Caramel Tone Appearance
+- Chocolate Tone Appearance
+- Espresso Tone Appearance
+
+### Regional Indian Variations
+- North Indian Skin (typically NC20-NC35)
+- South Indian Skin (typically NC30-NC47)
+- Northeast Indian Skin (typically NC15-NC30)
+- East Indian Skin (typically NC25-NC42)
+- West Indian Skin (typically NC25-NC40)
+- Central Indian Skin (typically NC30-NC45)
+- Coastal Indian Skin (typically NC35-NC47)
+- Mountain Region Skin (typically NC15-NC30)
+
+### Bollywood Celebrity Shade Matches
+- Deepika Padukone Skin Match (NC42)
+- Priyanka Chopra Skin Match (NC40)
+- Alia Bhatt Skin Match (NC25)
+- Katrina Kaif Skin Match (NC25)
+- Kareena Kapoor Skin Match (NC30)
+- Aishwarya Rai Skin Match (NC30)
+- Bipasha Basu Skin Match (NC44)
+- Kajol Skin Match (NC42)
+- Vidya Balan Skin Match (NC40)
+- Kangana Ranaut Skin Match (NC35)
+- Sonam Kapoor Skin Match (NC37)
+- Anushka Sharma Skin Match (NC35)
+
+### Undertone Interactions on Indian Skin
+- Pulls Pink On (NC ranges affected)
+- Pulls Orange On (NC ranges affected)  
+- Pulls Brown/Muddy On (NC ranges affected)
+- Pulls Grey/Ashy On (NC ranges affected)
+- Pulls Coral On (NC ranges affected)
+- Brightening Effect On (NC ranges)
+- Darkening Effect On (NC ranges)
+- True to Tube On (NC ranges)
+
+## 4. FORMULA & INGREDIENTS
+
+### Complete Ingredient Analysis
+- Full INCI List
+- Ingredient Source (natural, synthetic, hybrid)
+- Percentage of Key Ingredients
+- Active Ingredients
+- Inactive Ingredients
+- Preservatives Used
+- Fragrance Components
+- Colorant Details
+- Emollients List
+- Humectants List
+- Occlusives List
+- Film-Forming Agents
+- Thickening Agents
+- pH Adjusters
+- Antioxidants
+- Vitamins (A, C, E, etc.)
+- Peptides
+- Hyaluronic Acid Content
+- Oils Used (coconut, argan, jojoba, etc.)
+- Butter Content (shea, cocoa, mango)
+- Wax Types (beeswax, carnauba, candelilla)
+- Silicone Types
+- Alcohol Content
+- Essential Oils
+- Botanical Extracts
+- Mineral Content
+- SPF Ingredients
+- Plumping Agents
+- Cooling Agents
+
+### Safety & Allergen Information
+- Vegan Status
+- Cruelty-Free Certification
+- Halal Certification
+- Kosher Certification
+- Gluten-Free
+- Paraben-Free
+- Sulfate-Free
+- Phthalate-Free
+- Talc-Free
+- Fragrance-Free
+- Essential Oil-Free
+- Alcohol-Free
+- Silicone-Free
+- Mineral Oil-Free
+- Bismuth-Free
+- Carmine-Free
+- Lanolin-Free
+- Latex-Free in Packaging
+- Nickel-Free
+- Common Allergen Warnings
+- Patch Test Recommended
+- Comedogenicity Rating (0-5)
+- Irritancy Score
+- EWG Safety Rating
+- Clean Beauty Certifications
+- Organic Percentage
+- Non-GMO Status
+
+### Formulation Properties
+- Texture (creamy, lightweight, buttery, waxy, gel-like, mousse, liquid, thick, thin)
+- Viscosity Measurement (cP)
+- Melting Point (°C)
+- pH Level
+- Specific Gravity
+- Pigment Load Percentage
+- Oil-to-Wax Ratio
+- Water Content
+- Solid Content
+- Volatility Rate
+- Oxidation Stability
+- Microbial Stability
+- Particle Size Distribution
+
+## 5. PERFORMANCE METRICS
+
+### Longevity & Wear
+- Wear Time (hours) - Normal conditions
+- Wear Time - Eating/Drinking
+- Wear Time - Indian Summer (40°C+)
+- Wear Time - Monsoon Humidity
+- Wear Time - AC Environment
+- Wear Time - Pollution Exposure
+- Transfer Resistance (0-10)
+- Mask-Proof Rating
+- Kiss-Proof Rating
+- Smudge Resistance
+- Water Resistance
+- Oil Resistance
+- Sweat Resistance
+- Fade Pattern (even, center-out, patchy)
+- Reapplication Frequency Needed
+- Touch-Up Ease
+
+### Application Characteristics
+- Glide Score (1-10)
+- Tugging Level
+- Coverage in One Swipe
+- Coverage in Two Swipes
+- Full Opacity Coats Needed
+- Buildability
+- Blendability
+- Precision Level Required
+- Feathering Tendency
+- Bleeding Score
+- Settling into Lines
+- Migration Pattern
+- Dry Down Time (liquid formulas)
+- Setting Time
+- Prep Required (none, minimal, essential)
+
+### Comfort & Feel
+- Initial Comfort (1-10)
+- 2-Hour Comfort
+- 4-Hour Comfort
+- 8-Hour Comfort
+- Drying Level
+- Moisturizing Effect
+- Sticky/Tacky Feel
+- Weight on Lips (heavy, medium, weightless)
+- Tightness Sensation
+- Tingling/Plumping Sensation
+- Cooling Sensation
+- Warming Sensation
+- Numbness Effect
+
+## 6. INDIAN CLIMATE PERFORMANCE
+
+### Summer Performance (March-June)
+- Performance at 25°C
+- Performance at 30°C
+- Performance at 35°C
+- Performance at 40°C
+- Performance at 45°C+
+- Melting Point in Tube
+- Melting on Lips
+- Sweat Breakthrough Time
+- Oil Breakthrough Time
+- Color Stability in Heat
+- Texture Change in Heat
+- Refrigeration Recovery
+
+### Monsoon Performance (July-September)
+- Performance at 60% Humidity
+- Performance at 70% Humidity
+- Performance at 80% Humidity
+- Performance at 90% Humidity
+- Performance at 100% Humidity
+- Rain Resistance
+- Moisture Barrier Effectiveness
+- Mold/Fungus Resistance in Packaging
+
+### Winter Performance (December-February)
+- Performance at 5°C
+- Performance at 10°C
+- Performance at 15°C
+- Performance at 20°C
+- Cold Weather Cracking
+- Lip Protection in Cold
+- Texture in Cold
+- Application in Cold
+
+### Regional Climate Variations
+- Delhi Smog Performance
+- Mumbai Humidity Performance
+- Chennai Heat Performance
+- Bangalore Weather Performance
+- Kolkata Humidity Performance
+- Kashmir Cold Performance
+- Rajasthan Dry Heat Performance
+- Kerala Monsoon Performance
+- Goa Beach Climate Performance
+- Hill Station Performance
+
+### Pollution & Environment
+- Anti-Pollution Properties
+- PM2.5 Protection
+- PM10 Protection
+- Dust Resistance
+- Smoke Exposure Performance
+- UV Protection Level
+- Blue Light Protection
+- Environmental Barrier Function
+
+## 7. CULTURAL & OCCASION SUITABILITY
+
+### Indian Festivals
+- Holi Suitability (color/removal)
+- Diwali Appropriateness
+- Durga Puja Look
+- Navratri Color Matching
+- Eid Celebration Appropriate
+- Christmas Party Suitable
+- Baisakhi Festival
+- Onam Suitability
+- Pongal Appropriateness
+- Ganesh Chaturthi
+
+### Indian Wedding Functions
+- Mehendi Ceremony (day event)
+- Sangeet Night (performance-proof)
+- Haldi Ceremony (turmeric-proof)
+- Wedding Day (long-wear needed)
+- Reception (photography-ready)
+- Engagement Look
+- Pre-Wedding Shoots
+- Bridal Shade Suitability
+- Bridesmaid Appropriateness
+- Guest Appropriateness
+
+### Religious & Traditional
+- Temple Visit Appropriate
+- Mosque Visit Appropriate
+- Church Appropriate
+- Gurudwara Appropriate
+- Puja/Prayer Suitable
+- Traditional Attire Match
+- Saree Complementing
+- Lehenga Pairing
+- Salwar Suit Matching
+- Bindi Coordination
+
+### Professional Settings in India
+- Corporate Office (MNC standards)
+- Government Office
+- Bank Employee Suitable
+- Teacher Appropriate
+- Doctor/Healthcare Suitable
+- Lawyer/Court Appropriate
+- IT Office Casual
+- Startup Culture Fit
+- Client Meeting Ready
+- Interview Appropriate
+- Work From Home Video Calls
+
+### Social Occasions
+- Kitty Party Perfect
+- College Appropriate
+- School (for teachers)
+- Dating/First Date
+- Anniversary Dinner
+- Birthday Party
+- Casual Outing
+- Movie Theater
+- Restaurant Dinner
+- Cafe Meeting
+- Shopping Mall Day
+- Family Function
+
+## 8. INDIAN FOOD & BEVERAGE SURVIVAL
+
+### Indian Beverages
+- Chai Survival Time
+- Coffee Survival
+- Lassi Resistance
+- Nimbu Pani Effect
+- Coconut Water
+- Sugarcane Juice
+- Fresh Juice Staining
+- Alcohol Resistance
+- Paan/Betel Staining
+
+### Indian Food Resistance
+- Curry Survival
+- Oil/Ghee Resistance
+- Spicy Food Endurance
+- Samosa/Fried Food
+- Dosa/Idli Steam
+- Biryani Test
+- Chaat Survival
+- Street Food Test
+- Pickle/Achaar Contact
+- Pani Puri Challenge
+- Tandoori Staining
+- Turmeric Staining
+
+### Eating Habits
+- Roti/Chapati Eating
+- Rice Eating (South Indian style)
+- Hand Eating Compatible
+- Finger Food Friendly
+- Buffet Survival
+- Thali Meal Endurance
+
+## 9. PACKAGING & DESIGN
+
+### Physical Packaging
+- Packaging Material (plastic, metal, glass, recycled, biodegradable)
+- Weight with Packaging (grams)
+- Product Net Weight
+- Dimensions (length, width, height in mm)
+- Bullet Shape (round, square, teardrop, slanted, custom)
+- Bullet Exposure Length
+- Cap Type (click, magnetic, snap, twist)
+- Cap Security (loose to very tight)
+- Opening Mechanism
+- Applicator Type (doe-foot, brush, sponge, stick, none)
+- Applicator Quality
+- Mirror Included
+- Travel-Friendly Design
+- Purse-Friendly Size
+- Standing Ability
+
+### Visual Design
+- Color Scheme
+- Font Style
+- Logo Placement
+- Shade Indicator Accuracy
+- Shade Window
+- Transparent Elements
+- Luxury Feel Score
+- Instagram-Worthy Design
+- Collectibility Factor
+- Limited Edition Marking
+- Collaboration Branding
+- Festival Packaging
+- Gift Set Availability
+
+### Sustainability
+- Recyclable Percentage
+- Refillable System
+- Refill Cost
+- Biodegradable Components
+- Compostable Parts
+- Ocean-Bound Plastic Use
+- Carbon Footprint
+- Sustainable Forestry
+- Eco-Certifications
+- Minimal Packaging Option
+- Packaging Return Program
+
+## 10. PRICING & ECONOMICS
+
+### Pricing Structure
+- MRP (Maximum Retail Price in INR)
+- Actual Selling Price
+- USD Equivalent
+- Price Per Gram
+- Price Per Application (estimated)
+- Launch Price
+- Current Price
+- Price History
+- Inflation Adjustment
+- Regional Price Variations
+- Online vs Offline Price
+- Duty-Free Price
+
+### Discounts & Offers
+- Discount Frequency
+- Maximum Discount Seen
+- Festive Sale Inclusion
+- BOGO Availability
+- Bundle Offers
+- Cashback Offers
+- Credit Card Offers
+- Loyalty Points
+- Subscription Discounts
+- Student Discounts
+- First-Time User Offers
+- Influencer Codes
+
+### Value Analysis
+- Cost Per Wear
+- Competitor Price Comparison
+- Dupe Availability
+- Dupe Price Difference
+- Quality-Price Ratio
+- Luxury Tax Component
+- Import Duty Component
+- GST Rate Applied
+
+### Purchase Options
+- Available Sizes
+- Mini/Travel Size Price
+- Sample Availability
+- Sample Size
+- Tester Availability
+- Online Exclusive
+- Offline Exclusive
+- Store Exclusive Shades
+- Website Exclusive Offers
+
+## 11. AVAILABILITY & DISTRIBUTION
+
+### Indian Retail Presence
+- Nykaa Availability
+- Amazon India
+- Myntra Availability
+- Flipkart Presence
+- Purplle Availability
+- Tata CLiQ
+- Ajio
+- Sephora India
+- Brand Website India
+- Brand Store Locations
+- Department Stores
+- Multi-Brand Stores
+
+### Physical Retail
+- Metro City Availability
+- Tier 2 City Availability
+- Tier 3 City Availability
+- Mall Presence
+- High Street Stores
+- Airport Duty-Free
+- Pharmacy Availability
+- Supermarket Availability
+
+### Stock & Inventory
+- Stock Status
+- Restock Frequency
+- Out of Stock Duration
+- Pre-Order Available
+- Waitlist Option
+- Back in Stock Alerts
+- Limited Quantity Flag
+- Exclusive Launch Window
+
+### Delivery & Logistics
+- Delivery Time (Metros)
+- Delivery Time (Tier 2)
+- Delivery Time (Tier 3)
+- COD Available
+- Free Shipping Threshold
+- Express Delivery Option
+- International Shipping
+- Pincode Serviceability
+
+## 12. USER DEMOGRAPHICS & BEHAVIOR
+
+### Age Group Performance
+- Teen Suitability (13-19)
+- Young Adult (20-25)
+- Adult (26-35)
+- Middle Age (36-50)
+- Mature (50+)
+- Senior Friendly (65+)
+
+### Skin Type Compatibility
+- Normal Skin Performance
+- Dry Skin Performance
+- Very Dry/Flaky Lips
+- Oily Skin Area
+- Combination Skin
+- Sensitive Skin
+- Acne-Prone Skin
+- Eczema-Prone
+- Psoriasis Compatible
+- Rosacea Safe
+- Chapped Lips Performance
+- Pigmented Lips Coverage
+- Dark Lips Brightening
+- Smoker's Lips
+
+### Lifestyle Matching
+- Working Professional
+- Homemaker
+- Student
+- Artist/Creative
+- Healthcare Worker
+- Teacher
+- Entrepreneur
+- Social Media Influencer
+- Fitness Enthusiast
+- Busy Mom
+- Party Regular
+- Minimalist
+- Makeup Enthusiast
+- Makeup Beginner
+
+## 13. APPLICATION TECHNIQUES & TOOLS
+
+### Application Methods
+- Direct from Bullet
+- Finger Application
+- Lip Brush Application
+- Cotton Swab
+- Sponge Application
+- Airbrush Compatible
+- Mixing Palette Use
+
+### Prep Requirements
+- Exfoliation Needed
+- Lip Balm Base
+- Primer Necessary
+- Concealer Base
+- Liner Requirement
+- Setting Powder
+- Setting Spray
+
+### Application Techniques
+- Gradient Lip Possible
+- Ombre Effect
+- Overlining Suitability
+- Blotting Technique
+- Korean Gradient
+- Japanese Igari
+- Western Full Lip
+- Indian Traditional
+
+### Tools Compatibility
+- Brush Type Recommended
+- Liner Shade Match
+- Clear Liner Use
+- Lip Plumper Combo
+- Gloss Topper Options
+- Mixing with Other Shades
+
+## 14. SOCIAL MEDIA & DIGITAL
+
+### Platform Metrics
+- Instagram Tags Count
+- Instagram Reel Count
+- TikTok Videos
+- YouTube Reviews
+- YouTube Tutorials
+- Pinterest Pins
+- Twitter Mentions
+- Facebook Groups Discussion
+- Reddit Mentions
+- Snapchat Filters
+
+### Influencer Metrics
+- Influencer Endorsements
+- Micro-Influencer Reviews
+- Macro-Influencer Features
+- Celebrity Usage
+- Bollywood Mentions
+- TV Serial Usage
+- Reality Show Features
+- Fashion Week Appearances
+- Red Carpet Sightings
+- Award Show Appearances
+
+### User Generated Content
+- Selfie Frequency
+- Before/After Posts
+- Transformation Videos
+- GRWM Features
+- Flat Lay Photos
+- Swatch Posts
+- Review Videos
+- Wear Test Documentation
+
+### Virality Metrics
+- Viral Moment History
+- Meme Status
+- Trend Association
+- Challenge Participation
+- Hashtag Campaigns
+- Sold Out Due to Social
+- Restock Demand
+- Waiting List Length
+
+## 15. PHOTOGRAPHY & MEDIA
+
+### Photography Performance
+- Natural Light Photo
+- Ring Light Appearance
+- Studio Light Look
+- Flash Photography
+- Indoor Lighting
+- Outdoor Lighting
+- Golden Hour
+- Blue Hour
+- Fluorescent Light
+- LED Light
+- Candlelight
+- Sunset Light
+
+### Camera & Video
+- iPhone Camera Look
+- Android Camera Look
+- DSLR Appearance
+- HD Video (1080p)
+- 4K Video
+- 8K Video
+- Zoom Call Look
+- Instagram Filter Friendly
+- Snapchat Filter Compatible
+- Video Call Lighting
+- Live Stream Ready
+- Portrait Mode Ready
+
+### Professional Media
+- Editorial Shoot Ready
+- Commercial Shoot
+- Bridal Photography
+- Fashion Photography
+- Catalog Suitable
+- E-commerce Photos
+- Billboard Ready
+- Print Media
+- Digital Media
+- TV Commercial
+- Film/Cinema Ready
+- Stage Performance
+
+## 16. COMPETITIVE INTELLIGENCE
+
+### Market Position
+- Category Rank
+- Brand Portfolio Rank
+- Bestseller Status
+- Award Count
+- Award Names
+- Editor's Choice
+- Consumer Choice
+- Innovation Awards
+- Beauty Awards India
+
+### Comparison Metrics
+- Direct Competitors
+- Shade Dupes Available
+- Formula Dupes
+- Finish Dupes
+- Price Competitors
+- Quality Comparison Score
+- Unique Selling Points
+- Competitive Advantages
+- Market Share
+- Growth Rate
+
+### Innovation Metrics
+- First to Market Features
+- Patent Status
+- Patent Numbers
+- Trade Secrets
+- Proprietary Technology
+- R&D Investment
+- Innovation Pipeline
+- Future Versions Planned
+
+## 17. HEALTH & MEDICAL
+
+### Medical Safety
+- Pregnancy Safe
+- Breastfeeding Safe
+- Chemotherapy Safe
+- Radiation Therapy Safe
+- Surgery Pre/Post Safe
+- Medication Interactions
+- Hormone Therapy Safe
+- IVF Treatment Safe
+- Diabetes Considerations
+- Blood Thinner Compatible
+
+### Dermatological
+- Dermatologist Tested
+- Dermatologist Recommended
+- Allergy Tested
+- Hypoallergenic
+- Non-Comedogenic
+- Clinical Testing Done
+- Irritation Test Results
+- Sensitivity Test Results
+- Patch Test Results
+
+### Dental Considerations
+- Teeth Staining Risk
+- Teeth Whitening Compatible
+- Braces Friendly
+- Invisalign Compatible
+- Dental Work Safe
+- Veneer Safe
+- Crown Safe
+- Bridge Safe
+- Implant Safe
+
+### Lip Health
+- Cold Sore Trigger Risk
+- Healing Properties
+- Anti-Aging Benefits
+- Plumping Safety
+- Volume Enhancement
+- Line Reduction
+- Moisture Barrier Repair
+- Lip Treatment Properties
+- SPF Protection Level
+- Antioxidant Protection
+
+## 18. SENSORY EXPERIENCE
+
+### Taste & Flavor
+- Taste Description
+- Flavor Added
+- Sweetness Level
+- Bitterness Level
+- Chemical Taste
+- Aftertaste Duration
+- Edible Grade
+- Child Safety if Ingested
+- Pet Safety
+
+### Scent Profile
+- Fragrance Type
+- Scent Intensity (0-10)
+- Natural vs Synthetic Scent
+- Top Notes
+- Middle Notes
+- Base Notes
+- Scent Duration
+- Allergenic Fragrances
+- Fragrance-Free Option
+
+### Texture Feel
+- Initial Texture
+- Warmed Texture
+- Smoothness Level
+- Creaminess Factor
+- Slip Factor
+- Grip Factor
+- Cushion Feel
+- Silkiness Level
+- Waxiness Level
+- Oiliness Level
+
+### Temperature
+- Cool to Touch
+- Warming Effect
+- Tingling Sensation
+- Numbing Effect
+- Burning Sensation
+- Soothing Effect
+- Refreshing Feel
+- Comfort Temperature
+
+## 19. CULTURAL SIGNIFICANCE
+
+### Historical Context
+- Heritage Shade Status
+- Vintage Appeal
+- Retro Classification
+- Era Association (90s, 2000s, etc.)
+- Iconic Status
+- Cult Classic Status
+- Collectible Value
+- Museum Worthy
+- Archive Status
+
+### Celebrity Association
+- Bollywood Star Worn
+- Hollywood Celebrity
+- Music Artist Association
+- Sports Celebrity
+- Political Figure
+- Royal Connection
+- Influencer Favorite
+- Designer Collaboration
+- Artist Collaboration
+
+### Pop Culture
+- Movie Features
+- TV Show Appearances
+- Music Video Features
+- Advertisement Campaigns
+- Magazine Covers
+- Book Mentions
+- Song Lyrics Reference
+- Cultural Movement Association
+
+## 20. REGULATORY & COMPLIANCE
+
+### Indian Regulations
+- BIS Standards Compliance
+- FDA India Approval
+- CDSCO Registration
+- Import License Number
+- Manufacturing License
+- FSSAI Compliance (if applicable)
+- Legal Metrology Compliance
+- Consumer Protection Compliance
+
+### International Standards
+- US FDA Approved
+- EU Compliance
+- Health Canada
+- Australian TGA
+- Japanese Standards
+- Korean K-Beauty Standards
+- ASEAN Harmonized
+- ISO Certifications
+- GMP Certified
+
+### Testing & Certification
+- Animal Testing Status
+- Alternative Testing Methods
+- Safety Assessments
+- Efficacy Testing
+- Stability Testing
+- Microbiological Testing
+- Heavy Metal Testing
+- Preservative Efficacy
+- Compatibility Testing
+
+## 21. ENVIRONMENTAL IMPACT
+
+### Carbon Footprint
+- Manufacturing Emissions
+- Transportation Emissions
+- Packaging Footprint
+- End-of-Life Impact
+- Carbon Neutral Status
+- Carbon Offset Programs
+- Renewable Energy Use
+- Water Usage
+- Waste Generation
+
+### Biodegradability
+- Product Biodegradability
+- Packaging Biodegradability
+- Time to Decompose
+- Composting Suitable
+- Marine Safe
+- Microplastic Free
+- Environmental Toxicity
+- Eco-Certifications
+
+### Ethical Sourcing
+- Fair Trade Ingredients
+- Sustainable Sourcing
+- Rainforest Alliance
+- Local Sourcing Percentage
+- Supply Chain Transparency
+- Worker Welfare
+- Community Impact
+- Indigenous Rights Respect
+
+## 22. TECHNOLOGY INTEGRATION
+
+### Digital Features
+- AR Try-On Available
+- Virtual Shade Match
+- AI Recommendation
+- Shade Finder Quiz
+- QR Code Features
+- NFC Features
+- App Integration
+- Smart Packaging
+- IoT Enabled
+- Blockchain Verified
+
+### E-commerce Features
+- 360° View Available
+- Zoom Feature Quality
+- Swatch Video Available
+- Model Photos Count
+- Skin Tone Models Variety
+- Size Comparison Tool
+- Virtual Consultant
+- Chat Support
+- Video Consultation
+- Live Shopping Features
+
+## 23. CONSUMER INSIGHTS
+
+### Purchase Behavior
+- First Purchase Age Average
+- Repurchase Rate
+- Return Rate
+- Exchange Rate
+- Loyalty Rate
+- Referral Rate
+- Gift Purchase Frequency
+- Impulse Buy Score
+- Planned Purchase Score
+- Research Duration Average
+
+### Usage Patterns
+- Daily Use Percentage
+- Special Occasion Only
+- Seasonal Use Pattern
+- Day vs Night Use
+- Weekday vs Weekend
+- Work vs Personal
+- Indoor vs Outdoor
+- Solo vs Layered Use
+- Full vs Partial Application
+
+### Satisfaction Metrics
+- Overall Satisfaction Score
+- Recommend to Friend Score
+- Would Buy Again Score
+- Value for Money Score
+- Meets Expectations Score
+- Exceeds Expectations Rate
+- Disappointment Rate
+- Surprise Delight Rate
+
+## 24. PRODUCT LIFECYCLE
+
+### Development Timeline
+- Concept Date
+- Development Duration
+- Testing Duration
+- Launch Date
+- Peak Sales Period
+- Maturity Phase
+- Decline Indicators
+- Discontinuation Date
+- Relaunch History
+
+### Version History
+- Original Formula Date
+- Reformulation Count
+- Reformulation Dates
+- Formula Changes Detail
+- Packaging Updates
+- Shade Adjustments
+- Name Changes
+- Price Changes
+- Size Changes
+
+### Future Planning
+- Planned Updates
+- Shade Extensions Expected
+- Limited Edition Plans
+- Seasonal Releases
+- Anniversary Editions
+- Collaboration Pipeline
+- Innovation Roadmap
+- Phase-Out Timeline
+
+## 25. ACCESSIBILITY FEATURES
+
+### Physical Accessibility
+- Easy Open Packaging
+- Grip Texture
+- Arthritis Friendly
+- One-Handed Use
+- Tremor Friendly
+- Limited Mobility Suitable
+- Seated Application Easy
+- Travel Friendly for Disabled
+
+### Visual Accessibility
+- Braille Labels
+- Large Print Option
+- High Contrast Packaging
+- Color Blind Friendly Labels
+- Shade Name Clarity
+- Tactile Indicators
+- Audio Description Available
+- Screen Reader Compatible Site
+
+### Cognitive Accessibility
+- Simple Instructions
+- Picture Instructions
+- Multi-Language Support
+- Easy Shade Selection
+- Mistake Friendly
+- Intuitive Design
+- Clear Categorization
+- Simplified Options
+
+## 26. PROFESSIONAL USE
+
+### Makeup Artist Perspective
+- Kit Worthy
+- Client Favorite
+- Sanitizable
+- Depot-able
+- Mix-able
+- Photography Ready
+- Bridal Approved
+- Editorial Suitable
+- Commercial Suitable
+- Film Industry Standard
+
+### Salon & Spa
+- Professional Size Available
+- Bulk Purchase Options
+- Tester Program
+- Training Provided
+- Certification Available
+- Commission Structure
+- Retail Support
+- Display Options
+- Sample Program
+
+### Education & Training
+- Makeup School Approved
+- Student Discount
+- Educational Materials
+- Tutorial Support
+- Technique Guides
+- Color Theory Education
+- Application Training
+- Certification Courses
+
+## 27. EMERGENCY & SPECIAL SITUATIONS
+
+### Quick Fixes
+- No Mirror Application
+- Finger Application Speed
+- Emergency Touch-Up Ease
+- Power Outage Application
+- Quick Removal Methods
+- Stain Removal from Clothes
+- Stain Removal from Skin
+- Fix Broken Bullet
+- Fix Melted Product
+
+### Special Circumstances
+- Hospital Appropriate
+- Funeral Appropriate
+- Court Appearance
+- Passport Photo
+- Visa Photo
+- Wedding Guest
+- Job Interview
+- First Day at Work
+- Public Speaking
+- TV Appearance
+
+## 28. COMPARATIVE ATTRIBUTES
+
+### Within Brand
+- Brand Bestseller Rank
+- Brand Classic Status
+- Brand Innovation Status
+- Sister Shade Relations
+- Complementary Products
+- Brand Bundle Options
+- Cross-Sell Products
+- Upsell Products
+
+### Cross-Brand
+- Industry Benchmark
+- Category Leader
+- Market Disruptor
+- Price Leader
+- Quality Leader
+- Innovation Leader
+- Sustainability Leader
+- Inclusivity Leader
+
+### Global vs Local
+- International Version Differences
+- Regional Formula Variations
+- Local Manufacturing vs Import
+- Price Differential
+- Ingredient Differences
+- Packaging Differences
+- Marketing Differences
+- Availability Differences
+
+## 29. EMOTIONAL & PSYCHOLOGICAL
+
+### Emotional Response
+- Confidence Boost Level
+- Mood Enhancement
+- Power Feeling
+- Femininity Enhancement
+- Boldness Factor
+- Subtlety Factor
+- Sophistication Level
+- Playfulness Level
+- Sensuality Level
+- Professional Feeling
+
+### Color Psychology
+- Red - Power/Passion
+- Pink - Romance/Sweetness
+- Nude - Natural/Effortless
+- Berry - Sophisticated/Mysterious
+- Orange - Energetic/Fun
+- Brown - Earthy/Grounded
+- Purple - Creative/Royal
+- Coral - Youthful/Fresh
+
+### Personal Association
+- Signature Shade Potential
+- Memory Trigger
+- Nostalgia Factor
+- First Lipstick Memory
+- Special Occasion Association
+- Comfort Product Status
+- Security Blanket Status
+- Mood Lifter Rating
+
+## 30. QUANTITATIVE SPECIFICATIONS
+
+### Physical Measurements
+- Net Weight (grams)
+- Net Volume (ml)
+- Bullet Diameter (mm)
+- Bullet Height (mm)
+- Package Length (mm)
+- Package Width (mm)
+- Package Height (mm)
+- Package Weight (grams)
+- Shipping Weight (grams)
+- Shipping Dimensions
+
+### Chemical Properties
+- pH Value (specific number)
+- Viscosity (cP at 25°C)
+- Melting Point (°C)
+- Freezing Point (°C)
+- Flash Point (°C)
+- Specific Gravity
+- Refractive Index
+- Surface Tension
+- Vapor Pressure
+- Solubility Profile
+
+### Performance Metrics
+- Adhesion Force (N)
+- Spreading Value (mm²)
+- Color Intensity (%)
+- Gloss Level (GU)
+- Hardness (specific scale)
+- Breaking Point (force)
+- Flexibility Index
+- Elasticity Measure
+- Coverage Area (cm²)
+- Thickness Applied (μm)
+
+## 31. METADATA & TRACKING
+
+### System Information
+- Database Entry Date
+- Last Updated Date
+- Update Frequency
+- Data Source
+- Verification Status
+- Verification Date
+- Quality Score
+- Completeness Score
+- Accuracy Score
+- Confidence Level
+
+### Analytics Data
+- Page Views
+- Search Frequency
+- Click-Through Rate
+- Conversion Rate
+- Cart Additions
+- Wishlist Additions
+- Comparison Count
+- Share Count
+- Save Count
+- Print Count
+
+### User Interaction
+- Average Time Viewed
+- Scroll Depth
+- Interaction Points
+- Feature Usage
+- Tool Usage
+- Review Submissions
+- Photo Uploads
+- Question Asks
+- Answer Provides
+- Report Issues
+
+## 32. SUPPLY CHAIN
+
+### Manufacturing
+- Country of Manufacture
+- Factory Location
+- Factory Certifications
+- Production Date
+- Batch Size
+- Lead Time
+- Minimum Order Quantity
+- Quality Control Steps
+- Testing Protocols
+- Reject Rate
+
+### Distribution
+- Distribution Centers
+- Warehouse Locations
+- Shipping Partners
+- Delivery Partners
+- Transit Time
+- Storage Requirements
+- Temperature Control
+- Humidity Control
+- Handling Instructions
+- Damage Rate
+
+### Inventory
+- Current Stock Level
+- Reorder Point
+- Safety Stock
+- Turnover Rate
+- Aging Analysis
+- ABC Classification
+- Seasonal Stock Adjustments
+- Promotional Stock
+- Return Stock
+- Damaged Stock
+
+## 33. LEGAL & INTELLECTUAL PROPERTY
+
+### Trademarks & Patents
+- Trademark Registration Numbers
+- Patent Numbers
+- Patent Pending Status
+- Design Patents
+- Utility Patents
+- Trade Dress Protection
+- Copyright Status
+- Trade Secret Classification
+- Licensing Agreements
+- Royalty Structure
+
+### Legal Compliance
+- Advertising Standards
+- Claim Substantiation
+- Warning Labels
+- Age Restrictions
+- Sale Restrictions
+- Import Restrictions
+- Export Restrictions
+- Litigation History
+- Recall History
+- Regulatory Violations
+
+## 34. CUSTOMER SERVICE
+
+### Support Metrics
+- Return Policy
+- Exchange Policy
+- Refund Policy
+- Warranty Period
+- Guarantee Type
+- Customer Service Rating
+- Response Time
+- Resolution Time
+- Satisfaction Score
+- Complaint Rate
+
+### Service Features
+- Live Chat Available
+- Phone Support
+- Email Support
+- WhatsApp Support
+- Social Media Support
+- Video Consultation
+- Shade Matching Service
+- Personal Shopper
+- Loyalty Program
+- Referral Program
+
+## 35. MARKET RESEARCH
+
+### Consumer Studies
+- Focus Group Results
+- Survey Results
+- A/B Testing Results
+- User Testing Feedback
+- Beta Testing Feedback
+- Market Trial Results
+- Concept Testing Score
+- Purchase Intent Score
+- Price Sensitivity Analysis
+- Competitive Analysis
+
+### Trend Analysis
+- Trend Alignment Score
+- Trend Lifecycle Position
+- Future Trend Prediction
+- Seasonal Trends
+- Regional Trends
+- Demographic Trends
+- Behavioral Trends
+- Technology Trends
+- Sustainability Trends
+- Cultural Trends
+
+---
+
+*This comprehensive attribute system covers every conceivable aspect of lipstick products with specific focus on the Indian market, including all skin tones, cultural contexts, climate conditions, and consumer behaviors specific to India.*
