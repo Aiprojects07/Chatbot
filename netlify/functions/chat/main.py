@@ -11,26 +11,30 @@ sys.path.append(str(Path(__file__).resolve().parent.parent.parent.parent / "Qna 
 
 from core.single_product import answer, answer_with_custom_memory
 
+def _cors_headers():
+    return {
+        "access-control-allow-origin": "*",
+        "access-control-allow-methods": "GET, POST, OPTIONS",
+        # Be permissive for local testing; adjust as needed
+        "access-control-allow-headers": "*",
+        "access-control-max-age": "86400",
+        "content-type": "application/json",
+        "vary": "Origin",
+    }
+
 def _json_response(status, payload):
     return {
         "statusCode": status,
-        "headers": {
-            "content-type": "application/json",
-            "access-control-allow-origin": "*",  # allow simple CORS for testing/frontends
-        },
+        "headers": _cors_headers(),
         "body": json.dumps(payload, ensure_ascii=False)
     }
 
 def handler(event, context):
     if event.get("httpMethod") == "OPTIONS":
-        # CORS preflight (if you build a frontend that calls this)
+        # CORS preflight
         return {
             "statusCode": 204,
-            "headers": {
-                "access-control-allow-origin": "*",
-                "access-control-allow-methods": "POST, OPTIONS",
-                "access-control-allow-headers": "content-type, authorization",
-            },
+            "headers": _cors_headers(),
             "body": ""
         }
 

@@ -79,13 +79,14 @@
       sendBtn.disabled = true;
       q.value = '';
       try {
-        const res = await fetch('/.netlify/functions/chat', {
+        // Use deployed function endpoint so this page can be tested locally without Netlify CLI
+        const res = await fetch('https://symphonious-palmier-2f77c4.netlify.app/.netlify/functions/chat', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ question, sessionId, history })
         });
         const data = await res.json();
-        if (!res.ok) throw new Error(data.error || 'Request failed');
+        if (!res.ok) throw new Error((data.error || 'Request failed') + (data.detail ? ' — ' + data.detail : ''));
         addMsg(data.answer, 'bot');
         pushHistory(question, data.answer);
       } catch (err) {
