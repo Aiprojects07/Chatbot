@@ -1,19 +1,14 @@
 [build]
-  # No static build in this backend-only setup; you can add a frontend later
-  command = ""
-  publish = "."
+# Tell Netlify to build from the subfolder that contains your app
+base = "Single_product_chatbot..py"
+publish = "."
+command = ""
 
 [functions]
-  directory = "netlify/functions"
-  # Include Python source outside the functions folder so it's available at runtime
-  included_files = [
-    "Qna chatbot/**"
-  ]
-  # ensure Python runtime (for Node functions only; harmless here)
-  node_bundler = "esbuild"
+# This path is relative to the base directory above
+directory = "netlify/functions"
 
-# Optional: set function-level timeouts/memory if needed
-#[[functions]]
-#  name = "chat"
-#  timeout = 26
-#  memory = 1024
+# Include your Python core code in the function bundle
+included_files = [
+  "Single_product_chatbot..py/Qna chatbot/**"
+]
