@@ -4,7 +4,7 @@ command = ""
 publish = "Single_product_chatbot..py/."
 
 [functions]
-# Functions path relative to repo root (no base)
+# Functions directory relative to repo root (no base)
 directory = "Single_product_chatbot..py/netlify/functions"
 
 # Bundle your Python core so imports work on Netlify
