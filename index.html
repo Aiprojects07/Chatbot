@@ -74,18 +74,25 @@
       sessionStorage.setItem('chatHistory', JSON.stringify(history));
     }
 
+    // Pick function URL: absolute when on localhost, relative in production
+    const API_URL = (window.location.hostname.includes('localhost') || window.location.hostname.includes('127.0.0.1'))
+      ? 'https://aiprojects07.netlify.app/.netlify/functions/chat'
+      : '/.netlify/functions/chat';
+
     async function ask(question) {
       addMsg(question, 'user');
       sendBtn.disabled = true;
       q.value = '';
       try {
-        // Use deployed function endpoint so this page can be tested locally without Netlify CLI
-        const res = await fetch('https://symphonious-palmier-2f77c4.netlify.app/.netlify/functions/chat', {
+        const res = await fetch(API_URL, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ question, sessionId, history })
         });
-        const data = await res.json();
+        // Try to parse JSON; if it fails, show raw text
+        const text = await res.text();
+        let data;
+        try { data = JSON.parse(text); } catch (_) { throw new Error('Non-JSON response: ' + text.slice(0, 200)); }
         if (!res.ok) throw new Error((data.error || 'Request failed') + (data.detail ? ' — ' + data.detail : ''));
         addMsg(data.answer, 'bot');
         pushHistory(question, data.answer);
