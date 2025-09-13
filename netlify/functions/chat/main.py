@@ -5,9 +5,11 @@ import sys
 from pathlib import Path
 
 # Add the path to import from Qna chatbot directory
-sys.path.append(str(Path(__file__).resolve().parent.parent.parent / "Qna chatbot"))
+# __file__ -> .../netlify/functions/chat/main.py
+# parent (chat) -> parent (functions) -> parent (netlify) -> parent (project root)
+sys.path.append(str(Path(__file__).resolve().parent.parent.parent.parent / "Qna chatbot"))
 
-from core.single_product import answer
+from core.single_product import answer, answer_with_custom_memory
 
 def _json_response(status, payload):
     return {
@@ -47,10 +49,18 @@ def handler(event, context):
     top_k  = int(body.get("top_k", 10))
     limit  = int(body.get("limit", 5))
     prov   = body.get("provider")  # "anthropic" | "openai" | None
+    # Optional: client-managed session and memory
+    session_id = body.get("sessionId")
+    history = body.get("history")
 
     try:
-        ans = answer(q, top_k=top_k, limit=limit, provider=prov)
-        return _json_response(200, {"answer": ans})
+        # If client passes a valid history list of dicts, use it
+        if isinstance(history, list) and all(isinstance(x, dict) for x in history):
+            ans = answer_with_custom_memory(q, history, top_k=top_k, limit=limit, provider=prov)
+        else:
+            ans = answer(q, top_k=top_k, limit=limit, provider=prov)
+        # Echo sessionId if provided (useful for clients)
+        return _json_response(200, {"answer": ans, "sessionId": session_id})
     except Exception as e:
         # Optional: log e
         return _json_response(500, {"error": "Failed to answer", "detail": str(e)})
