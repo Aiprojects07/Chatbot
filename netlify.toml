@@ -1,14 +1,13 @@
 [build]
-# Tell Netlify to build from the subfolder that contains your app
-base = "Single_product_chatbot..py"
-publish = "."
 command = ""
+# Publish from the subfolder explicitly (no base)
+publish = "Single_product_chatbot..py/."
 
 [functions]
-# This path is relative to the base directory above
-directory = "netlify/functions"
+# Point to functions dir explicitly (no base)
+directory = "Single_product_chatbot..py/netlify/functions"
 
-# Include your Python core code in the function bundle
+# Include your Python core code so imports work on Netlify
 included_files = [
   "Single_product_chatbot..py/Qna chatbot/**"
 ]
