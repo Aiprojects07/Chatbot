@@ -5,7 +5,11 @@
 
 [functions]
   directory = "netlify/functions"
-  # ensure Python runtime
+  # Include Python source outside the functions folder so it's available at runtime
+  included_files = [
+    "Qna chatbot/**"
+  ]
+  # ensure Python runtime (for Node functions only; harmless here)
   node_bundler = "esbuild"
 
 # Optional: set function-level timeouts/memory if needed
