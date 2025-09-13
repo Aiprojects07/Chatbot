@@ -4,10 +4,20 @@ import os
 import sys
 from pathlib import Path
 
-# Add the path to import from Qna chatbot directory
-# __file__ -> .../netlify/functions/chat/main.py
-# parent (chat) -> parent (functions) -> parent (netlify) -> parent (project root)
-sys.path.append(str(Path(__file__).resolve().parent.parent.parent.parent / "Qna chatbot"))
+# Locate and add the 'Qna chatbot' directory to sys.path in a way that works
+# both locally (repo layout) and in the Netlify bundle.
+here = Path(__file__).resolve()
+candidates = [
+    here.parent,                 # .../chat
+    here.parent.parent,          # .../functions  (Netlify bundle usually has Qna chatbot at parents[1])
+    here.parent.parent.parent,   # .../netlify
+    here.parent.parent.parent.parent,  # project root in local repo
+]
+for base in candidates:
+    qna_dir = base / "Qna chatbot"
+    if qna_dir.exists():
+        sys.path.append(str(qna_dir))
+        break
 
 from core.single_product import answer, answer_with_custom_memory
 
